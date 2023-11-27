@@ -26,7 +26,7 @@ The Movie Browser project uses npm to manage dependencies. Run the following com
 #### Start the Application
   Once the dependencies are installed, start the application by running:
   ```bash
-  npm start
+  npm run dev
   ```
   This will start a local development server. Open your web browser and navigate to http://localhost:3--- to view the Movie Browser.
 
