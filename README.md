@@ -1,6 +1,6 @@
 # Movie Browser using React
 
-The Movie Browser is a simple reponsive web application that allows users to browse movies/tv shows and view details. This project utilizes HTML, CSS, JavaScript and the OMDb api to create an interactive movie browsing experience. 
+The Movie Browser is a simple responsive web application that allows users to browse movies/tv shows and view details. This project utilizes HTML, CSS, JavaScript and the OMDb api to create an interactive movie browsing experience. 
 
 #### Features
 - Search for movies by title
